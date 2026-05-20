@@ -189,4 +189,8 @@ This project reinforced the importance of:
 
 <img width="1691" height="428" alt="image" src="https://github.com/user-attachments/assets/0c10a535-5189-4caf-9677-1941f244e68a" />
 
-This project was brought about to solidify the hypotheses that a Sales Manager's number of direct reports, or their office location, has no influence on their sales performance - particularly as the opposite was hypothesised by senior stakeholders. In gathering business requirements and taking the initiative to own this project end-to-end, I was able to output a report that was used as evidence to strengthen the argument and push for structural changes off the back of it.
+This project was brought about to solidify the hypotheses that a Sales Manager's number of direct reports, or their office location, has no influence on their sales performance - particularly as the opposite was hypothesised by senior stakeholders.
+
+In gathering business requirements and taking the initiative to own this project end-to-end, I was able to output a report that was used as evidence to strengthen the argument and push for structural changes off the back of it.
+
+I was particularly careful when presenting the findings and writing the report in a way that'd solidify the argument whilst being easier for non-technical audiences to understand.
