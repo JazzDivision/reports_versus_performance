@@ -14,7 +14,7 @@ The analysis was carried out using Python, combining:
 - Simple Linear Regression (scikit-learn)
 - Statistical testing (ANOVA)
 
-The goal was to determine whether these factors are meaningful predictors of performance. The findings of this project had a real-world business impact, particularly in terms of headcount discussions between senior stakeholders.
+The goal was to determine whether these factors are meaningful predictors of performance. The findings of this project had a real-world business impact, particularly in terms of recruitment discussions between senior stakeholders.
 
 ---
 
@@ -184,3 +184,9 @@ This project reinforced the importance of:
 
 - Initially communicating findings to a non-technical audience, in a way that made it easy for them to effectively feedback to senior stakeholders
 - Standardising data types and handling NULLs
+
+### Business Impact
+
+<img width="1691" height="428" alt="image" src="https://github.com/user-attachments/assets/0c10a535-5189-4caf-9677-1941f244e68a" />
+
+This project was brought about to solidify the hypotheses that a Sales Manager's number of direct reports, or their office location, has no influence on their sales performance - particularly as the opposite was hypothesised by senior stakeholders. In gathering business requirements and taking the initiative to own this project end-to-end, I was able to output a report that was used as evidence to strengthen the argument and push for structural changes off the back of it.
